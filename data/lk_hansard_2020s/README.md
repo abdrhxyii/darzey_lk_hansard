@@ -1,12 +1,12 @@
 # 🏛️#SriLanka 🇱🇰 Hansard 2020S `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--20_06:23:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--20_16:36:05-green)
 
-[https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s)
+[https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s)
 
 A Hansard is the official verbatim record of parliamentary debates, preserving lawmakers’ words and decisions for history, law, and public accountability.
 
-- [**249** documents](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s) (**3.3 GB**), from **2023-11-17** to **2026-08-06**, scraped from [https://www.parliament.lk](https://www.parliament.lk)
+- [**249** documents](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s) (**3.3 GB**), from **2023-11-17** to **2026-08-06**, scraped from [https://www.parliament.lk](https://www.parliament.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -29,37 +29,37 @@ A Hansard is the official verbatim record of parliamentary debates, preserving l
 }
 ```
 
-![Chart](https://raw.githubusercontent.com/nuuuwan/lk_hansard/refs/heads/data_lk_hansard_2020s/data/lk_hansard_2020s/docs_by_month_and_lang.png)
+![Chart](https://raw.githubusercontent.com/abdrhxyii/lk_hansard/refs/heads/data_lk_hansard_2020s/data/lk_hansard_2020s/docs_by_month_and_lang.png)
 
 ## 🤗 Hugging Face Datasets
 
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace)
 
-- [nuuuwan/lk-hansard-2020s-docs](https://huggingface.co/datasets/nuuuwan/lk-hansard-2020s-docs)
-- [nuuuwan/lk-hansard-2020s-chunks](https://huggingface.co/datasets/nuuuwan/lk-hansard-2020s-chunks)
+- [abdrhxyiii/lk-hansard-2020s-docs](https://huggingface.co/datasets/abdrhxyiii/lk-hansard-2020s-docs)
+- [abdrhxyiii/lk-hansard-2020s-chunks](https://huggingface.co/datasets/abdrhxyiii/lk-hansard-2020s-chunks)
 
 ## 🆕 20 Latest documents
 
-- 2026-08-06 | `2026-08-06` | Hansard of 2026-08-06 | [data](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-08-06-2026-08-06)
-- 2026-08-05 | `2026-08-05` | Hansard of 2026-08-05 | [data](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-08-05-2026-08-05)
-- 2026-08-04 | `2026-08-04` | Hansard of 2026-08-04 | [data](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-08-04-2026-08-04)
-- 2026-07-24 | `2026-07-24` | Hansard of 2026-07-24 | [data](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-07-24-2026-07-24)
-- 2026-07-23 | `2026-07-23` | Hansard of 2026-07-23 | [data](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-07-23-2026-07-23)
-- 2026-07-22 | `2026-07-22` | Hansard of 2026-07-22 | [data](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-07-22-2026-07-22)
-- 2026-07-21 | `2026-07-21` | Hansard of 2026-07-21 | [data](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-07-21-2026-07-21)
-- 2026-07-10 | `2026-07-10` | Hansard of 2026-07-10 | [data](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-07-10-2026-07-10)
-- 2026-07-09 | `2026-07-09` | Hansard of 2026-07-09 | [data](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-07-09-2026-07-09)
-- 2026-07-08 | `2026-07-08` | Hansard of 2026-07-08 | [data](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-07-08-2026-07-08)
-- 2026-07-07 | `2026-07-07` | Hansard of 2026-07-07 | [data](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-07-07-2026-07-07)
-- 2026-06-26 | `2026-06-26` | Hansard of 2026-06-26 | [data](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-06-26-2026-06-26)
-- 2026-06-25 | `2026-06-25` | Hansard of 2026-06-25 | [data](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-06-25-2026-06-25)
-- 2026-06-24 | `2026-06-24` | Hansard of 2026-06-24 | [data](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-06-24-2026-06-24)
-- 2026-06-23 | `2026-06-23` | Hansard of 2026-06-23 | [data](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-06-23-2026-06-23)
-- 2026-06-12 | `2026-06-12` | Hansard of 2026-06-12 | [data](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-06-12-2026-06-12)
-- 2026-06-11 | `2026-06-11` | Hansard of 2026-06-11 | [data](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-06-11-2026-06-11)
-- 2026-06-10 | `2026-06-10` | Hansard of 2026-06-10 | [data](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-06-10-2026-06-10)
-- 2026-06-09 | `2026-06-09` | Hansard of 2026-06-09 | [data](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-06-09-2026-06-09)
-- 2026-05-22 | `2026-05-22` | Hansard of 2026-05-22 | [data](https://github.com/nuuuwan/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-05-22-2026-05-22)
+- 2026-08-06 | `2026-08-06` | Hansard of 2026-08-06 | [data](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-08-06-2026-08-06)
+- 2026-08-05 | `2026-08-05` | Hansard of 2026-08-05 | [data](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-08-05-2026-08-05)
+- 2026-08-04 | `2026-08-04` | Hansard of 2026-08-04 | [data](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-08-04-2026-08-04)
+- 2026-07-24 | `2026-07-24` | Hansard of 2026-07-24 | [data](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-07-24-2026-07-24)
+- 2026-07-23 | `2026-07-23` | Hansard of 2026-07-23 | [data](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-07-23-2026-07-23)
+- 2026-07-22 | `2026-07-22` | Hansard of 2026-07-22 | [data](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-07-22-2026-07-22)
+- 2026-07-21 | `2026-07-21` | Hansard of 2026-07-21 | [data](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-07-21-2026-07-21)
+- 2026-07-10 | `2026-07-10` | Hansard of 2026-07-10 | [data](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-07-10-2026-07-10)
+- 2026-07-09 | `2026-07-09` | Hansard of 2026-07-09 | [data](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-07-09-2026-07-09)
+- 2026-07-08 | `2026-07-08` | Hansard of 2026-07-08 | [data](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-07-08-2026-07-08)
+- 2026-07-07 | `2026-07-07` | Hansard of 2026-07-07 | [data](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-07-07-2026-07-07)
+- 2026-06-26 | `2026-06-26` | Hansard of 2026-06-26 | [data](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-06-26-2026-06-26)
+- 2026-06-25 | `2026-06-25` | Hansard of 2026-06-25 | [data](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-06-25-2026-06-25)
+- 2026-06-24 | `2026-06-24` | Hansard of 2026-06-24 | [data](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-06-24-2026-06-24)
+- 2026-06-23 | `2026-06-23` | Hansard of 2026-06-23 | [data](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-06-23-2026-06-23)
+- 2026-06-12 | `2026-06-12` | Hansard of 2026-06-12 | [data](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-06-12-2026-06-12)
+- 2026-06-11 | `2026-06-11` | Hansard of 2026-06-11 | [data](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-06-11-2026-06-11)
+- 2026-06-10 | `2026-06-10` | Hansard of 2026-06-10 | [data](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-06-10-2026-06-10)
+- 2026-06-09 | `2026-06-09` | Hansard of 2026-06-09 | [data](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-06-09-2026-06-09)
+- 2026-05-22 | `2026-05-22` | Hansard of 2026-05-22 | [data](https://github.com/abdrhxyii/lk_hansard/tree/data_lk_hansard_2020s/data/lk_hansard_2020s/2020s/2026/2026-05-22-2026-05-22)
 
 ---
 
